@@ -1,4 +1,5 @@
 ### Developed by: S VAISHNAV NANDA
+### Register Number: 212222240112
 ### Date:
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
  
@@ -76,4 +77,4 @@ plot_pacf(ARMA_2)
 ![image](https://github.com/user-attachments/assets/322a190f-556c-4abc-b76b-24450e096830)
 
 ### RESULT:
-Thus, a python program is created to fir ARMA Model successfully.
+Thus, a python program is created to fit ARMA Model with "Meta Stock price"  datasets successfully.
